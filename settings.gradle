@@ -1,0 +1,2 @@
+include ':9.AlarmPush'
+include ':2.TerminalAPKTest'
