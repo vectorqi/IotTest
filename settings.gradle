@@ -1,2 +1,3 @@
 include ':9.AlarmPush'
 include ':2.TerminalAPKTest'
+include ':3.CloudController'
